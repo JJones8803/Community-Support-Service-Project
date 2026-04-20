@@ -123,6 +123,10 @@ Edge cases handled: goal already met → returns 0.0, graduation passed → retu
 | PUT | `/api/hours/{id}/reject` | Reject a log |
 
 ---
+## Video Walkthrough: 
+https://youtu.be/hSoC4OYwJkc
+
+---
 
 ## AI Usage Log
 
